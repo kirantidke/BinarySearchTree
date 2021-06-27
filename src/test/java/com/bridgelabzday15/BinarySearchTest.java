@@ -1,7 +1,6 @@
 package com.bridgelabzday15;
 import com.bridgelabz.BinaryTree;
 import static org.junit.Assert.assertTrue;
-
 import org.junit.Test;
 import org.junit.Assert;
 
